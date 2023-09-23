@@ -45,7 +45,7 @@ const App = () => {
           <BtnBorder>
             <BtnRow>
               <Button name="7" onClick={onClickNum}>
-                7!!!!
+                7!!!!!!!!!!!!
               </Button>
               <Button name="8" onClick={onClickNum}>
                 8
